@@ -26,7 +26,7 @@ Modular data store framework to make adding new portal types easier.
 
 ## liborganize
 
-A library that provides data structures for organizing data sets in apps.
+A library that provides data structures to organize content in apps.
 Planned features include sorting and filtering data sets similar to a database,
 organizing items in a tree like layout of labels, 
 serializing data to persistent storage, and tracking changes to data sets.
