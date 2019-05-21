@@ -30,3 +30,9 @@ A library that provides data structures to organize content in apps.
 Planned features include sorting and filtering data sets similar to a database,
 organizing items in a tree like layout of labels, 
 serializing data to persistent storage, and tracking changes to data sets.
+
+## Frontend Application Framework
+
+A set of tools and libraries supporting the development of frontend applications.
+Features of support include UI building, updates, error reporting, and storage.
+Might be integrated with liborganize.
