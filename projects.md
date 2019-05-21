@@ -35,4 +35,5 @@ serializing data to persistent storage, and tracking changes to data sets.
 
 A set of tools and libraries supporting the development of frontend applications.
 Features of support include UI building, updates, error reporting, and storage.
-Might be integrated with liborganize.
+Might be integrated with liborganize. Each component will be usable both within the
+framework and separately.
